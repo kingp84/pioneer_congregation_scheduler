@@ -1,0 +1,38 @@
+DIRECTORY,,,,,,
+"Pioneer church of Christ--900 N Pioneer Street, Elk City, OK 73644 ",,,,,,
+LAST NAME,FIRST NAME,Address,Home Phone,Cell Phone,Active,Role
+Brenner,Zachary,"419 N Jefferson (Apt. A), Elk City, OK 73644",,580-339-1631,No,None
+Ford,Roger,"419 N Jefferson (Apt. G), Elk City, OK 73644",,580-345-3587,No,None
+Gunter,Lane,"10681 N 2100  Rd, Canute, OK 73626",580-472-3760,,No,None
+Gunter,Ronate,"10681 N 2100  Rd, Canute, OK 73626",580-472-3760,580-821-4067,No,None
+Hickman,Steve,"100 S. Pioneer Ave (#84), Elk City, OK 73644",,936-596-9602,Yes,"3,4,5,8"
+King,Patrick,"193 Circle Dr, Weatherford, OK 73096",,580-819-1469,Yes,"1,2,3,4,5,6,7,8,11"
+King,Sarah,"193 Circle Dr, Weatherford, OK 73096",,580-890-7181,No,None
+King,Joseph,"193 Circle Dr, Weatherford, OK 73096",,580-729-1731,Yes,"6,11"
+Leitner,Kelly,"1202 Bluestem, Elk City, OK 73644",,580-729-1251,Yes,"9,10,11"
+Lewis,Lukas,"193 Circle Dr, Weatherford, OK 73096",,580-302-2690,Yes,"1,2,3,4,5,6,7,8,11"
+Nutley,Charlie,"1105 Colorado Ave, Elk City, OK 73644",,580-821-4817,Yes,"1,2,3,4,5,6,7,8,11"
+Nutley,Sharlene,"1105 Colorado Ave, Elk City, OK 73644",,580-821-1476,Yes,"9,10,11"
+Reed,Earl,"10936 N 2100 Rd, Canute, OK 73626",,580-821-4376,Yes,"1,2,3,4,5,6,7,8,11"
+Reed,Nancy,"10936 N 2100 Rd, Canute, OK 73626",,580-715-0698,Yes,"9,10,11"
+Stanley,Annette,"116 Carpenter Ln, Elk City, OK 73644",,580-225-1562,No,None
+Thompson,Chris,"319 N Elk St, Elk City, OK 73644",,580-799-1481,Yes,"1,2,3,4,5,6,7,8,11"
+Thompson,Talisa,"319 N Elk St, Elk City, OK 73644",,580-374-2593,No,None
+Waggy,Gwen,"501 Gennie Pl, Elk City, OK 73644",,210-815-2560,Yes,"9,10,11"
+,,,,,,
+,Roles,Service,Description,Gender,,
+1,Preaching,S (A/P),Preaches the sermon,Male,,
+2,Teaching,S (A) and W,Teaches Sunday morning study or Wednesday night study,Male,,
+3,Opening Prayer,S (A/P) and W,Leads the opening prayer,Male,,
+4,Closing Prayer,S (A/P) and W,Leads the closing prayer,Male,,
+5,Lord's Supper,S (A/P),Leads the Lord's Supper,Male,,
+6,Song Leader,S (A/P) and W,Leads the singing,Male,,
+7,Invitation,W,Offers the Lord's Invitation on Wednesday night,Male,,
+8,Scripture Reading,S (A/P) ,Reads the selected scripture for the sermon.,Male,,
+9,Communion Prep,S (A/P),A woman prepares the communion,Female,,
+10,Communion Cleanup,S (A/P),A woman cleansup the communion after worship,Female,,
+11,Building Cleanup,Month,A family cleansup the building,Both,,
+,S= Sunday,,,,,
+,W= Wednesday,,,,,
+,A= AM/morning,,,,,
+,P= PM/evening,,,,,

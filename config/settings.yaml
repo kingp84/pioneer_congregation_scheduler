@@ -1,0 +1,19 @@
+preaching_rotation:
+  week1: "Patrick King"
+  week2: "Earl Reed"
+  week3_am: "Chris Thompson"
+  week3_pm: "Charlie Nutley"
+  week4_am: "Lukas Lewis"
+  week4_pm_even_month: "Earl Reed"
+  week4_pm_odd_month: "Patrick King"
+  week5_even_month: "Patrick King"
+  week5_odd_month: "Earl Reed"
+
+fixed_roles:
+  lord_supper: "Steve Hickman"
+  teaching: "Earl Reed"
+
+communion_rotation: ["Gwen Waggy", "Sharlene Nutley", "Kelly Leitner", "Nancy Reed"]
+building_rotation: ["Reed family", "King/Lewis family", "Nutley family", "Waggy family", "Leitner family"]
+
+absences: []

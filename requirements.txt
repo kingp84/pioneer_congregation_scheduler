@@ -1,0 +1,6 @@
+Purpose: list dependencies.  
+Flask==3.0.0
+reportlab==4.0.4
+PyYAML==6.0
+openai==0.27.8   
+gunicorn

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Congregation Schedule</title>
+</head>
+<body>
+  <h1>Monthly Schedule</h1>
+  {% for entry in schedule %}
+    <h3>{{ entry.date }} - {{ entry.service }}</h3>
+    <ul>
+      {% for role, person in entry.assignments.items() %}
+        <li>{{ role }}: {{ person }}</li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+
+  <h2>GPT-4 Summary</h2>
+  <p>{{ summary }}</p>
+</body>
+</html>
